@@ -106,3 +106,9 @@ npm run dev
 4. Choose a template
 5. Preview resume in real time
 6. Export as PDF
+
+---
+
+## Credentials
+
+Frontend UI based on a licensed template purchased from <i>Engineer Talks with Buschan</i>. Customized various UI elements and wording.
